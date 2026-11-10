@@ -1,0 +1,9 @@
+{
+  "name": "midnight-paws",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
